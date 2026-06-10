@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # House Price Prediction Model Comparison
 
 ## Objective
@@ -26,3 +27,7 @@ Compare multiple machine learning models for California Housing Dataset.
 
 ## Author
 Shardul Deshpande
+=======
+# House-Price-Model-Comparison
+Comparison of Linear Regression, Ridge Regression and Decision Tree models on California Housing Dataset
+>>>>>>> 882f1c7557d5eb20befede7049690dd0f4d62897
